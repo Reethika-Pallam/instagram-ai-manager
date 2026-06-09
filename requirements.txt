@@ -13,6 +13,7 @@ scipy==1.11.3
 # AI / NLP for caption generation
 transformers==4.34.1
 torch==2.1.0
+anthropic==0.7.1
 
 # Logging and monitoring
 python-json-logger==2.0.7
